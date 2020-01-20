@@ -52,7 +52,7 @@ def movies_with_director_key(name, movies_collection)
   # have to use the movie_with_director_name method
     # this method returns a hash of information on a movie
   # output should be an array of :director_name => movie
-  
+
 end
 
 
